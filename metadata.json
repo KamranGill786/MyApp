@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Adapter Toolkit",
+  "description": "Advanced Wi-Fi diagnostics, USB OTG adapter detection, driver management, and local network diagnostics for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
